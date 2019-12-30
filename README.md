@@ -1,0 +1,2 @@
+# SpreadSheet-Implementation
+ Implementation of a spreadsheet with 9 cells with a GUI.  A cell can contain either a formula, a number or be empty. A formula can contain numbers, reference to cells and the operations.  There is an equation and a value view of the cells. The two tables below shows both the equation and the value views of the cells.The user is provided with a button to switch between views and a button for undo functionality. The solution uses Observer, Interpreter and Memento patterns.
